@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home-screen {
+  width: 100%;
+  display: flex;
+  /* align-items: center; */
+  margin-bottom: 100px;
+}
+
+.sources-component {
+  width: 25%;
+  /* height: 100vh; */
+  /* background-color: red; */
+}
+
+.news-component {
+  padding: 1%;
+  width: 75%;
+}
